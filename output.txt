@@ -1,0 +1,12 @@
+	Customers
+( Quality: 1=high, 2=medium, 3=low )
+( Type: 1=single, 2=double bed )
+
+Name: Natnahom Asfaw
+Room: 3
+Type: 2
+Quality: 1
+Starting date: 01/05/2023
+Finishing date: 30/05/2023
+Price: $5000
+
